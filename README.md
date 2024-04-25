@@ -10,9 +10,6 @@ Repositório para armazena resumo sobre o Git e GitHub do curso versionamento de
 |-------|---------|
 |Gravando Alteração no Repositório Local | [Resumos] ()
 
-'''
-git init
 
-''''
 ## 🔍 Referências 
 - [ Digital Innovation One]().
